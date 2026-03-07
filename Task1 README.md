@@ -42,12 +42,10 @@ Purchase History: View last 10 purchase records<br>
 ### File Description
 The program automatically creates 4 text files to store data:
 
-goods.txt: Product data
+products.txt: Product data
 
 users.txt: User data
 
 staff.txt: Staff data
-
-history.txt: shopping records
 
 sales_history.txt: Sales records
