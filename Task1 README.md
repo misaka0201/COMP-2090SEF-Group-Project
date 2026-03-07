@@ -13,7 +13,7 @@ Although the method name is the same, each class implements it in its own way.
 6. Static Method: marked with @staticmethod. For example, Product.to_money() is a utility function that converts numbers to currency format.
 7. Composition: the User class has a self.cart list that stores tuples of Product objects and their quantities.<br>
 `The language of the program output is only CHINESE`
-## 'User Guide'
+## `User Guide`
 ### Staff Functions
 Staff can log in to manage products and view sales data.
 
@@ -39,3 +39,15 @@ Shopping Cart: View items added to cart<br>
 Add to Cart: Enter product ID and quantity<br>
 Checkout: Confirm cart contents and pay<br>
 Purchase History: View last 10 purchase records<br>
+### File Description
+The program automatically creates 4 text files to store data:
+
+goods.txt: Product data
+
+users.txt: User data
+
+staff.txt: Staff data
+
+history.txt: shopping records
+
+sales_history.txt: Sales records
