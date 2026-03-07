@@ -1,5 +1,5 @@
 # COMP-2090SEF-Group-Project Task 1 
-Chen Man Ho 14257154
+Chen Man Ho 14257154 Chen Chun Tao 14252183 Li Feng Quan 14258022
 ##  Application: online shopping system
 1. Class: Product is a class, and Product(1, "Apple", 5.5) creates a specific product object. The code defines multiple classes like Product, User, Staff
 2. Inheritance: Person, Staff and User
